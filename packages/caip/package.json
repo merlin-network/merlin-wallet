@@ -1,8 +1,8 @@
 {
-  "name": "@shapeshiftoss/caip",
+  "name": "@gridironx/caip",
   "version": "8.15.0",
   "description": "CAIP Implementation",
-  "repository": "https://github.com/shapeshift/web",
+  "repository": "https://github.com/merlin-network/merlin-wallet",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
